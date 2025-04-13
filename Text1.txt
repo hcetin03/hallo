@@ -1,5 +1,5 @@
 zeile 1
-zeile 2
+Das ist die Online-Änderung.
 zeile 3
 zeile 4
 zeile 5
